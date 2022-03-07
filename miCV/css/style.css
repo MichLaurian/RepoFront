@@ -1,0 +1,57 @@
+* {
+ padding: 0;
+ margin: 0;
+
+}
+img{
+   max-width: 20%;
+}
+.body{
+    background-color: #262738;
+ color: antiquewhite;
+ 
+}
+
+.body_info {
+ margin: 70px 0 70px 0;
+}
+/* h2 {
+ margin-bottom: 70px;
+} */
+.name {
+ box-sizing: border-box;
+ background-color: #22232b;
+ text-align: center;
+}
+h3,
+h2 {
+ color: #dcdcdc;
+
+ background-color: #161b2c;
+}
+.datosPersonales ul li {
+ padding-left: 40px;
+}
+
+h3 {
+ padding: 10px;
+ margin: 20px 0 20px 0;
+}
+.segunda_linea {
+ margin-left: 80px;
+}
+
+.formacion ul li {
+ margin-left: 40px;
+}
+
+.exp_laboral ul li {
+ margin-left: 40px;
+}
+
+.footer_batman {
+    color: #dcdcdc;
+    padding: 15px;
+ background-color: #3b3a3a;
+ text-align: center;
+}
