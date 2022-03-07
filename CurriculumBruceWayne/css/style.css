@@ -1,0 +1,45 @@
+* {
+ padding: 0;
+ margin: 0;
+}
+.body_info {
+ margin: 70px 0 70px 0;
+}
+/* h2 {
+ margin-bottom: 70px;
+} */
+.name {
+ box-sizing: border-box;
+ background-color: #e6e6e6;
+ text-align: center;
+}
+h3,
+h2 {
+ color: #005677;
+
+ background-color: #c4c4c4;
+}
+.datosPersonales ul li {
+ padding-left: 40px;
+}
+
+h3 {
+ padding: 10px;
+ margin: 20px 0 20px 0;
+}
+.segunda_linea {
+ margin-left: 80px;
+}
+
+.formacion ul li {
+ margin-left: 40px;
+}
+
+.exp_laboral ul li {
+ margin-left: 40px;
+}
+
+.footer_batman {
+ background-color: #005677;
+ text-align: center;
+}
